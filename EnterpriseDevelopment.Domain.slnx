@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/EnterpriseDevelopment.Domain/EnterpriseDevelopment.Domain/EnterpriseDevelopment.Domain.csproj" />
+  <Project Path="tests/EnterpriseDevelopment.Domain.Tests/EnterpriseDevelopment.Domain.Tests.csproj" />
+</Solution>
